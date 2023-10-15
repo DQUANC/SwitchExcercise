@@ -1,0 +1,10 @@
+C:\Users\daniq\Documents\UdeO\progra\Clase2_PIB_2023\Clase2_PIB_2023\obj\Debug\Clase2_PIB_2023.csproj.AssemblyReference.cache
+C:\Users\daniq\Documents\UdeO\progra\Clase2_PIB_2023\Clase2_PIB_2023\obj\Debug\Clase2_PIB_2023.Form1.resources
+C:\Users\daniq\Documents\UdeO\progra\Clase2_PIB_2023\Clase2_PIB_2023\obj\Debug\Clase2_PIB_2023.Properties.Resources.resources
+C:\Users\daniq\Documents\UdeO\progra\Clase2_PIB_2023\Clase2_PIB_2023\obj\Debug\Clase2_PIB_2023.csproj.GenerateResource.cache
+C:\Users\daniq\Documents\UdeO\progra\Clase2_PIB_2023\Clase2_PIB_2023\obj\Debug\Clase2_PIB_2023.csproj.CoreCompileInputs.cache
+C:\Users\daniq\Documents\UdeO\progra\Clase2_PIB_2023\Clase2_PIB_2023\bin\Debug\Clase2_PIB_2023.exe.config
+C:\Users\daniq\Documents\UdeO\progra\Clase2_PIB_2023\Clase2_PIB_2023\bin\Debug\Clase2_PIB_2023.exe
+C:\Users\daniq\Documents\UdeO\progra\Clase2_PIB_2023\Clase2_PIB_2023\bin\Debug\Clase2_PIB_2023.pdb
+C:\Users\daniq\Documents\UdeO\progra\Clase2_PIB_2023\Clase2_PIB_2023\obj\Debug\Clase2_PIB_2023.exe
+C:\Users\daniq\Documents\UdeO\progra\Clase2_PIB_2023\Clase2_PIB_2023\obj\Debug\Clase2_PIB_2023.pdb
